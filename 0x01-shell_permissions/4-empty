@@ -1,0 +1,3 @@
+#!/bin/bash
+# create empty file hello
+touch hello
